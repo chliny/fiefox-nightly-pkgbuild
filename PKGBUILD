@@ -6,8 +6,7 @@
 _name=firefox
 _channel=nightly
 _area=zh-CN
-pkgname="${_name}-${_channel}"
-pkgname=firefox-nightly
+pkgname="${_name}-${_channel}-zh"
 pkgdesc='Standalone web browser from mozilla.org, nightly build'
 url='http://www.mozilla.org/projects/firefox'
 pkgver=29.0a1
