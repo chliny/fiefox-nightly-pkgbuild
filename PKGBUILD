@@ -2,6 +2,7 @@
 # Contributor : Det <nimetonmaili @ gmail.com>
 # Contributor: coderoar <coderoar @ gmail.com>
 # Contributor: kang <kang @ mozilla.com>
+# Contributor: chliny < chliny11 @ gmail.com>
 
 _name=firefox
 _channel=nightly
